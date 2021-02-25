@@ -11,3 +11,6 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-02-24 20:56:30.753
 !MESSAGE Indexed 'clase02' (1 sources, 55 headers) in 0,104 sec: 973 declarations; 1.807 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-02-24 21:04:02.352
+!MESSAGE Indexed 'clase03' (1 sources, 55 headers) in 0,099 sec: 973 declarations; 1.807 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
