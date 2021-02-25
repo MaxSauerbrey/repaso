@@ -817,3 +817,13 @@ java.io.FileNotFoundException: /home/maxdev/eclipse-workspace/clasesss/clase01/s
 !MESSAGE The project description file (.project) for 'clase02' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2021-02-24 22:00:18.704
 !MESSAGE The project description file (.project) for 'clase03' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2021-02-25 00:08:07.919 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=11.0.10
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.embedcpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.embedcpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-02-25 00:20:49.660
+!MESSAGE Indexed 'terceraClase' (1 sources, 55 headers) in 0,291 sec: 973 declarations; 1.807 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
